@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6379b6a4-6f3c-4099-8d82-1cbc97627c94" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Assgnment/LetterTracker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assgnment/LetterTrackerTest.java" afterDir="false" />
+    <list default="true" id="6379b6a4-6f3c-4099-8d82-1cbc97627c94" name="Default Changelist" comment="add int">
+      <change afterPath="$PROJECT_DIR$/src/Exercise2/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise2/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise2/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise2/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise2/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java2/Account1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java2/Assgnment/LetterTracker.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java2/Assgnment/LetterTracker.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Account1.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,6 +21,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="package-info" />
         <option value="Class" />
       </list>
     </option>
@@ -32,7 +41,9 @@
     <option name="selectedIndex" value="1" />
   </component>
   <component name="ProjectId" id="1uUZBwEWUxze1eeqX9cC5g0RKQe" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
       <flattenPackages />
@@ -100,9 +111,10 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Exercise2" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
-  <component name="RunManager" selected="Application.MyStackTest">
+  <component name="RunManager" selected="Application.Test">
     <configuration name="ArrayList1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BroCode.ArrayList1" />
       <module name="Java2" />
@@ -123,12 +135,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LetterTrackerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Assgnment.LetterTrackerTest" />
+    <configuration name="MyStackTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Class4.MyStackTest" />
       <module name="Java2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Assgnment.*" />
+          <option name="PATTERN" value="Class4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,19 +148,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercise2.Test" />
       <module name="Java2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Exercise2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyStackTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Class4.MyStackTest" />
+    <configuration name="TestLockableCounter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Interface.TestLockableCounter" />
       <module name="Java2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Class4.*" />
+          <option name="PATTERN" value="Interface.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -169,18 +187,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.MyStackTest" />
-      <item itemvalue="Application.LetterTrackerTest" />
-      <item itemvalue="Application.Main" />
       <item itemvalue="Application.LetterTrackerTest (1)" />
       <item itemvalue="Application.ArrayList1" />
+      <item itemvalue="Application.Test" />
+      <item itemvalue="Application.TestLockableCounter" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.TestLockableCounter" />
         <item itemvalue="Application.MyStackTest" />
         <item itemvalue="Application.ArrayList1" />
         <item itemvalue="Application.LetterTrackerTest (1)" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.LetterTrackerTest" />
       </list>
     </recent_temporary>
   </component>
@@ -203,7 +221,33 @@
       <workItem from="1624924603402" duration="22000" />
       <workItem from="1624924641783" duration="660000" />
       <workItem from="1624925870778" duration="4000" />
+      <workItem from="1624935949374" duration="347000" />
+      <workItem from="1624936986002" duration="96000" />
+      <workItem from="1624938456902" duration="15000" />
+      <workItem from="1624990878384" duration="32218000" />
+      <workItem from="1625027040697" duration="154000" />
+      <workItem from="1625027521741" duration="705000" />
+      <workItem from="1625034126535" duration="21000" />
+      <workItem from="1625056194410" duration="6657000" />
+      <workItem from="1625068379225" duration="716000" />
+      <workItem from="1625073697021" duration="527000" />
+      <workItem from="1625078862160" duration="10506000" />
     </task>
+    <task id="LOCAL-00001" summary="add int">
+      <created>1624936090680</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1624936090680</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add int">
+      <created>1624936159664</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1624936159664</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -214,11 +258,22 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="false" />
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add hello" />
+    <MESSAGE value="add int" />
+    <option name="LAST_COMMIT_MESSAGE" value="add int" />
   </component>
 </project>
